@@ -1,3 +1,3 @@
 # ocean_toe_2020
 
-Code for the ToE analysis and figures of the NCC paper
+Python code for the Time of Emergence analysis of CMIP5 models and figures of the NCC paper
